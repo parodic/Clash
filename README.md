@@ -6,9 +6,13 @@ FLclash [点击下载>>](https://github.com/chen08209/FlClash/releases/tag/v0.8.
 ## Windows电脑软件下载
 Clash Verge [点击下载>>](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)
 
+Clash Mihomo [点击下载>>](https://github.com/xishang0128/mihomo-party)
+
 Hiddify [点击下载>>](https://github.com/hiddify/hiddify-app/releases)
 ## MAC电脑软件下载
 Clash X [点击下载>>](https://github.com/uyez/rj/releases/download/ClashX/ClashX.dmg)
+
+Clash Mihomo [点击下载>>](https://github.com/xishang0128/mihomo-party)
 
 Clash Verge [点击下载>>](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)
 
