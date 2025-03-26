@@ -1,6 +1,8 @@
 # Clash翻墙代理软件（电脑 安卓 苹果）
 
 ## 最新FLclash三端下载地址
+Sing-box [点击下载>>](https://github.com/SagerNet/sing-box)
+
 FLclash [点击下载>>](https://github.com/chen08209/FlClash/releases/tag/v0.8.70)
 
 ## Windows电脑软件下载
